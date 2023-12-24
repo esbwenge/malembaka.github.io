@@ -1,5 +1,4 @@
 # malembaka.github.io
-Personal page
 
 Welcome to my personal web page.
 
